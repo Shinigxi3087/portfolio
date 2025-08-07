@@ -310,18 +310,6 @@ const projects = [
     image: "/images/hilink.png",
     description: "Adventure travel booking site with interactive elements and booking flow mockups.",
   },
-  {
-    name: "CashCache",
-    image: "/images/cashcache.png",
-    description: "FinTech app with OTP login and crypto tracking. Built for performance.",
-    status: "In Progress",
-  },
-  {
-    name: "Rotom",
-    image: "/images/rotom.png",
-    description: "AI fridge assistant with expiry tracking and dashboard.",
-    status: "In Progress",
-  },
 ];
 
 
