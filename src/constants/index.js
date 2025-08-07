@@ -283,34 +283,50 @@ const projects = [
   {
     name: "Ajniha",
     image: "/images/ajniha.png",
-    description: "Non-profit website designed to showcase causes, events, and donation drives. Built with responsive design.",
+    description:
+      "Non-profit website designed to showcase causes, events, and donation drives. Built with responsive design.",
+    link: "https://www.ajniha.org/",
   },
   {
     name: "SellStatic",
     image: "/images/sellstatic.png",
-    description: "E-commerce platform demo with landing pages and modern animations using React and Tailwind CSS.",
+    description:
+      "E-commerce platform demo with landing pages and modern animations using React and Tailwind CSS.",
+    link: "https://www.sellstatic.com/",
   },
   {
     name: "Brainwave",
     image: "/images/brainwave.png",
-    description: "Landing page for an AI productivity tool, focused on sleek design and fast performance.",
+    description:
+      "Landing page for an AI productivity tool, focused on sleek design and fast performance.",
+    link: "https://brainwave-beta-three.vercel.app/",
   },
   {
     name: "Eclat",
     image: "/images/eclat.png",
-    description: "Portfolio-style website for a luxury brand concept, using elegant typography and transitions.",
+    description:
+      "Portfolio-style website for a luxury brand concept, using elegant typography and transitions.",
+    link: "https://eclat-brand.vercel.app/",
   },
   {
     name: "Cryptex",
     image: "/images/cryptex.png",
-    description: "Crypto dashboard with market stats and wallet integration. Clean UI with chart visualizations.",
+    description:
+      "Crypto dashboard with market stats and wallet integration. Clean UI with chart visualizations.",
+    link: "https://cryptexwatch.vercel.app/"
   },
   {
     name: "Hilink",
     image: "/images/hilink.png",
-    description: "Adventure travel booking site with interactive elements and booking flow mockups.",
+    description:
+      "Adventure travel booking site with interactive elements and booking flow mockups.",
+    link: "https://hi-link-delta.vercel.app/",
   },
+  
 ];
+
+export default projects;
+
 
 
 export {
