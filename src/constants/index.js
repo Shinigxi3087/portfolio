@@ -279,6 +279,52 @@ const socialImgs = [
   
 ];
 
+const projects = [
+  {
+    name: "Ajniha",
+    image: "/images/ajniha.png",
+    description: "Non-profit website designed to showcase causes, events, and donation drives. Built with responsive design.",
+  },
+  {
+    name: "SellStatic",
+    image: "/images/sellstatic.png",
+    description: "E-commerce platform demo with landing pages and modern animations using React and Tailwind CSS.",
+  },
+  {
+    name: "Brainwave",
+    image: "/images/brainwave.png",
+    description: "Landing page for an AI productivity tool, focused on sleek design and fast performance.",
+  },
+  {
+    name: "Eclat",
+    image: "/images/eclat.png",
+    description: "Portfolio-style website for a luxury brand concept, using elegant typography and transitions.",
+  },
+  {
+    name: "Cryptex",
+    image: "/images/cryptex.png",
+    description: "Crypto dashboard with market stats and wallet integration. Clean UI with chart visualizations.",
+  },
+  {
+    name: "Hilink",
+    image: "/images/hilink.png",
+    description: "Adventure travel booking site with interactive elements and booking flow mockups.",
+  },
+  {
+    name: "CashCache",
+    image: "/images/cashcache.png",
+    description: "FinTech app with OTP login and crypto tracking. Built for performance.",
+    status: "In Progress",
+  },
+  {
+    name: "Rotom",
+    image: "/images/rotom.png",
+    description: "AI fridge assistant with expiry tracking and dashboard.",
+    status: "In Progress",
+  },
+];
+
+
 export {
   words,
   abilities,
@@ -290,4 +336,5 @@ export {
   techStackIcons,
   techStackImgs,
   navLinks,
+  projects
 };
