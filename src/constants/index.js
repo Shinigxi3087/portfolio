@@ -360,6 +360,11 @@ const projects = [
     image: "/images/noteflow.png",
     link: "https://note-flow-five.vercel.app/",
   },
+  {
+    name: "Luxe",
+    image: "/images/luxe.png",
+    link: "https://luxe-fawn-five.vercel.app/",
+  },
   
 ];
 
