@@ -322,6 +322,44 @@ const projects = [
       "Adventure travel booking site with interactive elements and booking flow mockups.",
     link: "https://hi-link-delta.vercel.app/",
   },
+  {
+    name: "ReadMe",
+    image: "/images/ReadMe.png",
+    description:
+      "AI-powered resume analyzer built with React and Puter.js",
+    link: "https://read-me-pz26-chi.vercel.app/",
+  },
+  {
+    name: "Hoobank",
+    image: "/images/hoobank.png",
+    description:
+      "A sleek, responsive landing page for a fictional digital banking/card product.",
+    link: "https://hoobank-nine-pi.vercel.app/",
+  },
+  {
+    name: "BiteBoost",
+    image: "/images/biteboost.png",
+    description:
+      "A modern web app that suggests recipes based on the ingredients you have at home.",
+    link: "https://bite-boost.vercel.app/",
+  },
+  {
+    name: "Zentry",
+    image: "/images/zentry.png",
+    description:
+      " A high‑polish, Awwwards‑inspired landing page for a fictional gaming brand.",
+    link: "https://zentry-mu-ten.vercel.app/",
+  },
+  {
+    name: "CodeSphere",
+    image: "/images/codesphere.png",
+    link: "https://code-sphere-orcin.vercel.app/",
+  },
+  {
+    name: "NoteFlow",
+    image: "/images/noteflow.png",
+    link: "https://note-flow-five.vercel.app/",
+  },
   
 ];
 
